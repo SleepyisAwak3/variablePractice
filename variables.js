@@ -1,3 +1,6 @@
 var email = "noahxbyers@gmail.com"
+  console.log(email)
 var votingAge = 18
-var playerOnlineStatus = True
+  console.log(votingAge)
+var playerOnlineStatus = true
+  console.log(playerOnlineStatus)
